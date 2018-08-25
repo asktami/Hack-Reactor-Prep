@@ -1,0 +1,5 @@
+# Untracked files:
+# ignore files starting with zzz
+zzz*
+# ignore folders starting with zzz
+/zzz/*
